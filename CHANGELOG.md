@@ -5,6 +5,12 @@ All notable changes to Soonpage are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH).
 
+## v1.0.1
+
+### Changed
+
+- Tagline now clarifies this page is reused for an individual artist page and/or the main Stux.Music website, not just the platform itself
+
 ## v1.0.0
 
 ### Added

@@ -2,9 +2,9 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.music/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.music/logo-dark.png"><img src="https://global.media.stux.music/logo-dark.png" height="80" alt="Stux.Music Logo"></picture>
 </p>
 
-# Contributing to Coming Soon Page
+# Contributing to Stux.Music Soonpage
 
-This is a single-file HTML template, open for use and modification per the
+This is a small static HTML template (a coming-soon page (`index.html`) plus its legal pages, changelog and 404), open for use and modification per the
 [License](README.md#license) section. This document is for anyone working on
 the template itself (not a downstream deployment).
 
@@ -21,7 +21,7 @@ a local static server pointed at the directory. Then open
 - Keep it lightweight and dependency-free; Font Awesome (solid icons) is self-hosted under `assets/fontawesome/`, matching Stux.Music's actual design system, not pulled from a third-party CDN.
 - `changelog.html` fetches and renders `CHANGELOG.md` at runtime — don't hand-duplicate changelog content into it.
 - General contact uses `hello@stux.music`; legal-page contact uses `legal@stux.music`.
-- The brand icon in the header swaps between `icon-dark.png` (light theme) and `icon-light.png` (dark theme) to match the site's per-theme accent color — the favicon itself just uses the plain `icon.png`.
+- The brand icon in the header swaps between `icon-dark.png` (light theme) and `icon-light.png` (dark theme) to match the site's per-theme accent color. The favicon is a separate set (`favicon.ico`, `apple-touch-icon.png`, `site.webmanifest` and the `icon-*.png` files), made from the icon.
 - Match the existing code style: no comments explaining *what* the markup does, only *why* when something is genuinely non-obvious.
 
 ## Discord previews and icons

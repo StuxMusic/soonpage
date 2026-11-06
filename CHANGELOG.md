@@ -1,9 +1,21 @@
 # Changelog
 
-All notable changes to Soonpage are documented here.
+All notable changes to Stux.Music Soonpage are documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/).
+
+## v26.11.06
+
+### Changed
+
+- The docs use the template's full name, Stux.Music Soonpage, instead of "Coming Soon Page"
+- The README footer's Stuxedo icon follows GitHub's light or dark theme (the `<picture>` style, from Stuxedo's media host) instead of Stuxedo's GitHub avatar
+- CONTRIBUTING describes the template as a small static site (the page plus its legal pages, changelog and 404), not a single file; and it no longer says the favicon is the plain `icon.png` (it's the `favicon.ico` set)
+
+### Fixed
+
+- The README's License section names the copyright holder, Stux.Group, alongside the existing use-and-modify terms
 
 ## v26.10.26
 

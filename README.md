@@ -53,7 +53,7 @@ Run `bash tests/version.sh` and `bash tests/site.sh` (Python 3.8+, no dependenci
 
 ## Copyright
 
-Copyright © 2026 Stux.Group. All rights reserved.
+Copyright © 2026 Stux.Music. All rights reserved.
 
 ---
 

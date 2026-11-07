@@ -51,9 +51,9 @@ Work happens on the `test` branch: releases are committed and tagged there, and 
 
 Run `bash tests/version.sh` and `bash tests/site.sh` (Python 3.8+, no dependencies). The second checks the Discord link previews and the icon set. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
+## Copyright
 
-Copyright © 2026 Stux.Group. This template is open source and available for use and modification.
+Copyright © 2026 Stux.Group. All rights reserved.
 
 ---
 
